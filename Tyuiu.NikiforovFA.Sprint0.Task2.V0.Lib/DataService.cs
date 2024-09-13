@@ -4,7 +4,7 @@
     {
         public static string GetMassage(string name)
         {
-            return $"Привет, {name}";
+            return $"Привет, {name} ";
         }
 
     }
